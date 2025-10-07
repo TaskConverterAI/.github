@@ -57,6 +57,6 @@ TaskConverterAI состоит из набора сервисов:
 
 | **Category**  | **Repository** | **Description** | **Status** |
 |----------------|----------------|------------------|-------------|
-| **Docs** | [`taskconverterai-docs`](https://github.com/TaskConverterAI/docs) | Статическое веб-приложение с API-документациями микросервисов | ![GitHub issues](https://img.shields.io/github/issues/TaskConverterAI/docs?label=Issues) |
+| **Docs** | [`docs`](https://github.com/TaskConverterAI/docs) | Статическое веб-приложение с API-документациями микросервисов | ![GitHub issues](https://img.shields.io/github/issues/TaskConverterAI/docs?label=Issues) |
 
 ---
