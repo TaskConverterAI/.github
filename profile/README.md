@@ -36,14 +36,16 @@ TaskConverterAI превращает голосовые заметки и вст
 ## 🧱 **Architecture Overview**
 
 TaskConverterAI состоит из набора сервисов:
-- WIP
+
+<img width="587" height="300" alt="image" src="https://github.com/user-attachments/assets/c9ea1a86-80c8-488f-9c5f-69aa02f466cb" />
 
 ---
 
 ## 🚀 **Latest Updates**
 
 - ![Docs last commit](https://img.shields.io/github/last-commit/TaskConverterAI/docs?label=Docs%20Last%20Update)
-  
+- ![Auth last commit](https://img.shields.io/github/last-commit/TaskConverterAI/auth-service?label=Auth%20Last%20Update)
+ 
 ---
 
 ## 📚 **Documentation**
@@ -58,5 +60,6 @@ TaskConverterAI состоит из набора сервисов:
 | **Category**  | **Repository** | **Description** | **Status** |
 |----------------|----------------|------------------|-------------|
 | **Docs** | [`docs`](https://github.com/TaskConverterAI/docs) | Статическое веб-приложение с API-документациями микросервисов | ![GitHub issues](https://img.shields.io/github/issues/TaskConverterAI/docs?label=Issues) |
+| **Auth** | [`auth`](https://github.com/TaskConverterAI/auth-service) | Микросервис для работы с токенами и авторизацией | ![GitHub issues](https://img.shields.io/github/issues/TaskConverterAI/auth-service?label=Issues) |
 
 ---
